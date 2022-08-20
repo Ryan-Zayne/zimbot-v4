@@ -33,7 +33,7 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['2349011894746'] //owner number +27634090203
+global.owner = ['2349011894746, 2349027092297'] //owner number +27634090203
 global.wame = ['2349011894746'] 
 global.pemilik = ['2349011894746'] //owner number +27634090203
 global.premium = ['2349011894746'] //premium number +27634090203
